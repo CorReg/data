@@ -4529,3 +4529,5 @@ date;granularite;maille_code;maille_nom;cas_confirmes;deces;reanimation;hospital
 30/03/2020;region;REG-94;Corse;;19;20;99;91;;OpenCOVID19-fr;;;opencovid19-fr
 31/03/2020;pays;FRA;France;52128;3523;5565;22757;9444;;CorReg;;;
 01/04/2020;pays;FRA;France;56989;4032;6017;24639;10934;;CorReg;;;
+01/04/2020;departement;DEP-59;Nord;;81;221;613;215;;CorReg;;;
+01/04/2020;departement;DEP-57;Moselle;;212;181;1021;305;;CorReg;;;
